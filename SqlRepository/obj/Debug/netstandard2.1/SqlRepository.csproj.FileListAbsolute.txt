@@ -1,0 +1,28 @@
+C:\Users\akash.lakade\Desktop\Assignment\Flight_Booking\SqlRepository\bin\Debug\netstandard2.1\SqlRepository.deps.json
+C:\Users\akash.lakade\Desktop\Assignment\Flight_Booking\SqlRepository\bin\Debug\netstandard2.1\SqlRepository.dll
+C:\Users\akash.lakade\Desktop\Assignment\Flight_Booking\SqlRepository\bin\Debug\netstandard2.1\SqlRepository.pdb
+C:\Users\akash.lakade\Desktop\Assignment\Flight_Booking\SqlRepository\bin\Debug\netstandard2.1\DAL.dll
+C:\Users\akash.lakade\Desktop\Assignment\Flight_Booking\SqlRepository\bin\Debug\netstandard2.1\ViewModels.dll
+C:\Users\akash.lakade\Desktop\Assignment\Flight_Booking\SqlRepository\bin\Debug\netstandard2.1\DAL.pdb
+C:\Users\akash.lakade\Desktop\Assignment\Flight_Booking\SqlRepository\bin\Debug\netstandard2.1\ViewModels.pdb
+C:\Users\akash.lakade\Desktop\Assignment\Flight_Booking\SqlRepository\obj\Debug\netstandard2.1\SqlRepository.csprojAssemblyReference.cache
+C:\Users\akash.lakade\Desktop\Assignment\Flight_Booking\SqlRepository\obj\Debug\netstandard2.1\SqlRepository.AssemblyInfoInputs.cache
+C:\Users\akash.lakade\Desktop\Assignment\Flight_Booking\SqlRepository\obj\Debug\netstandard2.1\SqlRepository.AssemblyInfo.cs
+C:\Users\akash.lakade\Desktop\Assignment\Flight_Booking\SqlRepository\obj\Debug\netstandard2.1\SqlRepository.csproj.CoreCompileInputs.cache
+C:\Users\akash.lakade\Desktop\Assignment\Flight_Booking\SqlRepository\obj\Debug\netstandard2.1\SqlRepository.csproj.CopyComplete
+C:\Users\akash.lakade\Desktop\Assignment\Flight_Booking\SqlRepository\obj\Debug\netstandard2.1\SqlRepository.dll
+C:\Users\akash.lakade\Desktop\Assignment\Flight_Booking\SqlRepository\obj\Debug\netstandard2.1\SqlRepository.pdb
+D:\ASPNET_Core_Training\New folder\SqlRepository\bin\Debug\netstandard2.1\SqlRepository.deps.json
+D:\ASPNET_Core_Training\New folder\SqlRepository\bin\Debug\netstandard2.1\SqlRepository.dll
+D:\ASPNET_Core_Training\New folder\SqlRepository\bin\Debug\netstandard2.1\SqlRepository.pdb
+D:\ASPNET_Core_Training\New folder\SqlRepository\bin\Debug\netstandard2.1\DAL.dll
+D:\ASPNET_Core_Training\New folder\SqlRepository\bin\Debug\netstandard2.1\ViewModels.dll
+D:\ASPNET_Core_Training\New folder\SqlRepository\bin\Debug\netstandard2.1\DAL.pdb
+D:\ASPNET_Core_Training\New folder\SqlRepository\bin\Debug\netstandard2.1\ViewModels.pdb
+D:\ASPNET_Core_Training\New folder\SqlRepository\obj\Debug\netstandard2.1\SqlRepository.csprojAssemblyReference.cache
+D:\ASPNET_Core_Training\New folder\SqlRepository\obj\Debug\netstandard2.1\SqlRepository.AssemblyInfoInputs.cache
+D:\ASPNET_Core_Training\New folder\SqlRepository\obj\Debug\netstandard2.1\SqlRepository.AssemblyInfo.cs
+D:\ASPNET_Core_Training\New folder\SqlRepository\obj\Debug\netstandard2.1\SqlRepository.csproj.CoreCompileInputs.cache
+D:\ASPNET_Core_Training\New folder\SqlRepository\obj\Debug\netstandard2.1\SqlRepository.csproj.CopyComplete
+D:\ASPNET_Core_Training\New folder\SqlRepository\obj\Debug\netstandard2.1\SqlRepository.dll
+D:\ASPNET_Core_Training\New folder\SqlRepository\obj\Debug\netstandard2.1\SqlRepository.pdb
